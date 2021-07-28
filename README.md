@@ -1,2 +1,2 @@
-# MOGA
-I am editing the README file. Adding some more details about the project description.
+# Feature Selection Using Multi Objective Genetic Algorithm 
+Created for documentation my thesis research. It contain Software defect Prediction as the research object. 
